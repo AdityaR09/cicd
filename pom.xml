@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mycompany</groupId>
-	<artifactId>cicd</artifactId>
+	<groupId>com.mycompany.ale</groupId>
+	<artifactId>ale-cicd</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
 
-	<name>cicd</name>
+	<name>alecicd</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -40,7 +40,7 @@
                               <username>Adi0928</username>
                               <password>Hornet@09</password>
                               <applicationName>cicd</applicationName>
-                              <environment>DEV</environment>
+                              <environment>Sandbox</environment>
                               <businessGroup>ALE International</businessGroup>
                               <workerType>Small</workerType>
                              
