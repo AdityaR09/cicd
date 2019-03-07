@@ -41,7 +41,7 @@
                               <password>Hornet@09</password>
                               <applicationName>cicd</applicationName>
                               <environment>Sandbox</environment>
-                              <businessGroup>ALE International</businessGroup>
+                              <businessGroup>tcs</businessGroup>
                               <workerType>Small</workerType>
                              
                        </cloudHubDeployment>
